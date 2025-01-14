@@ -4,4 +4,5 @@
 требования воспроизводимости.
 
 
-[Домашнее задание 1. Микросервисы](https://github.com/Niktyav/MLModel_in_prod/tree/master/hw1)  
+[Домашнее задание 1. Микросервисы](https://github.com/Niktyav/MLModel_in_prod/tree/master/hw1)     
+[Домашнее задание 2. A/B тесты](https://github.com/Niktyav/MLModel_in_prod/tree/master/hw2)  
